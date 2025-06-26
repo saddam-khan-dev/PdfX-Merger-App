@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Uploaded or generated files
+uploads/
+public/merge.pdf
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (if used)
+.env
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
